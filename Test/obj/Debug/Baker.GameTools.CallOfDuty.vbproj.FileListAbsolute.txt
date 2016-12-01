@@ -1,0 +1,10 @@
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\bin\Debug\Baker.GameTools.CallOfDutyTools.dll
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\bin\Debug\Baker.GameTools.CallOfDutyTools.pdb
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\bin\Debug\Baker.GameTools.CallOfDutyTools.xml
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\bin\Debug\Textures.dll
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDutyTools.Resources.resources
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDuty.vbproj.GenerateResource.Cache
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDutyTools.dll
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDutyTools.xml
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDutyTools.pdb
+C:\Users\Raymon\Documents\Visual Studio 2015\Projects\Baker.NightfireTools.Textures\Baker.NightfireTools.Textures.CODServices\obj\Debug\Baker.GameTools.CallOfDuty.vbprojResolveAssemblyReference.cache
